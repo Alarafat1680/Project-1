@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: system-ui, Arial, Helvetica, sans-serif
+}
+.box{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.button button{
+    color: hsl(120, 33%, 99%);
+    font-size: 16px;
+    font-weight:bold;
+    cursor: pointer;
+    padding: 10px 50px 10px 50px;
+    height:auto;
+    background-color: rgb(21, 222, 10);
+}
